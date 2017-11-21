@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Library/Library/bin/Debug/netcoreapp2.0/Library.dll",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp2.0/MvcMovie.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Library/Library",
+            "cwd": "${workspaceFolder}",
             "stopAtEntry": false,
             "internalConsoleOptions": "openOnSessionStart",
             "launchBrowser": {
