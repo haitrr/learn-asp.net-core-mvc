@@ -3399,11 +3399,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryData\\LibraryData.csproj",
+      "projectUniqueName": "C:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryData\\LibraryData.csproj",
       "projectName": "LibraryData",
-      "projectPath": "c:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryData\\LibraryData.csproj",
+      "projectPath": "C:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryData\\LibraryData.csproj",
       "packagesPath": "C:\\Users\\haitran\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryData\\obj\\",
+      "outputPath": "C:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

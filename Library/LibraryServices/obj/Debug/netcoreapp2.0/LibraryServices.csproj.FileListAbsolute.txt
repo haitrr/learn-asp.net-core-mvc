@@ -9,3 +9,13 @@ C:\Users\Hai\source\repos\Library\LibraryServices\obj\Debug\netcoreapp2.0\Librar
 C:\Users\Hai\source\repos\Library\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.AssemblyInfo.cs
 C:\Users\Hai\source\repos\Library\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.dll
 C:\Users\Hai\source\repos\Library\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.pdb
+C:\Users\haitran\Documents\Mine\learn-asp.net-core-mvc\Library\LibraryServices\bin\Debug\netcoreapp2.0\LibraryServices.deps.json
+C:\Users\haitran\Documents\Mine\learn-asp.net-core-mvc\Library\LibraryServices\bin\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\haitran\Documents\Mine\learn-asp.net-core-mvc\Library\LibraryServices\bin\Debug\netcoreapp2.0\LibraryServices.pdb
+C:\Users\haitran\Documents\Mine\learn-asp.net-core-mvc\Library\LibraryServices\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\haitran\Documents\Mine\learn-asp.net-core-mvc\Library\LibraryServices\bin\Debug\netcoreapp2.0\LibraryData.pdb
+C:\Users\haitran\Documents\Mine\learn-asp.net-core-mvc\Library\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\haitran\Documents\Mine\learn-asp.net-core-mvc\Library\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.AssemblyInfoInputs.cache
+C:\Users\haitran\Documents\Mine\learn-asp.net-core-mvc\Library\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.AssemblyInfo.cs
+C:\Users\haitran\Documents\Mine\learn-asp.net-core-mvc\Library\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\haitran\Documents\Mine\learn-asp.net-core-mvc\Library\LibraryServices\obj\Debug\netcoreapp2.0\LibraryServices.pdb

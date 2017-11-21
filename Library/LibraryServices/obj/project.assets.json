@@ -3417,11 +3417,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryServices\\LibraryServices.csproj",
+      "projectUniqueName": "C:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryServices\\LibraryServices.csproj",
       "projectName": "LibraryServices",
-      "projectPath": "c:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryServices\\LibraryServices.csproj",
+      "projectPath": "C:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryServices\\LibraryServices.csproj",
       "packagesPath": "C:\\Users\\haitran\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryServices\\obj\\",
+      "outputPath": "C:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3438,8 +3438,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryData\\LibraryData.csproj": {
-              "projectPath": "c:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryData\\LibraryData.csproj"
+            "C:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryData\\LibraryData.csproj": {
+              "projectPath": "C:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\Library\\LibraryData\\LibraryData.csproj"
             }
           }
         }
