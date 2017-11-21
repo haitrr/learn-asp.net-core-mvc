@@ -13122,11 +13122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "c:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "c:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\haitran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\MvcMovie\\obj\\",
+      "outputPath": "c:\\Users\\haitran\\Documents\\Mine\\learn-asp.net-core-mvc\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
