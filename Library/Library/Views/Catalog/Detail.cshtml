@@ -1,4 +1,4 @@
-@model Library.Models.Catalog.AssetDetalModel
+@model Library.Models.Catalog.AssetDetailModel
 
 <div class="container">
     <div class="page-header clearfix detailHeading">
@@ -15,10 +15,10 @@
         </div>
          <div class="col-md-4">
           <p id="itemTitle">@Model.Title</p> 
-          <p id="itemTitle">@Model.AuthorOrDirector</p> 
-          <p id="itemTitle">@Model.Status</p> 
-          <p id="itemTitle">@Model.Type</p> 
-          <p id="itemTitle">@Model.CurrentLocation</p> 
+          <p id="itemAuthor">@Model.AuthorOrDirector</p> 
+          <p id="itemStatus">@Model.Status</p> 
+          <p id="itemType">@Model.Type</p> 
+          <p id="itemLocation">@Model.CurrentLocation</p> 
         
        @if (Model.Status == "Lost")
        {

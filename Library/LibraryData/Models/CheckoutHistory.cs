@@ -10,14 +10,14 @@ namespace LibraryData.Models
         public int Id {get; set;}
 
         [Required]
-        public LibraryAsset LibraryAssest { get; set; }
+        public LibraryAsset LibraryAsset { get; set; }
 
         [Required]
         public LibraryCard LibraryCard { get; set; }
 
         [Required]
-        public DateTime CheckOut { get; set; }
+        public DateTime CheckedOut { get; set; }
 
-        public DateTime? CheckIn { get; set; }
+        public DateTime? CheckedIn { get; set; }
     }
 }

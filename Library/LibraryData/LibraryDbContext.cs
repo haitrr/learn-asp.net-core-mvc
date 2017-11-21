@@ -4,9 +4,9 @@ using System;
 
 namespace LibraryData
 {
-    public class LibraryContext : DbContext
+    public class LibraryDbContext : DbContext
     {
-        public LibraryContext(DbContextOptions options) : base(options)
+        public LibraryDbContext(DbContextOptions options) : base(options)
         {
         }
 

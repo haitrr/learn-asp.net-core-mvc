@@ -10,9 +10,9 @@ namespace LibraryData.Models
         public int Id { get; set; }
 
         [Required]
-        public LibraryAsset LibraryAssest { get; set; }
+        public LibraryAsset LibraryAsset { get; set; }
         public LibraryCard LibraryCard { get; set; }
         public DateTime Since { get; set; }
-        public DateTime Util { get; set; }
+        public DateTime Until { get; set; }
     }
 }

@@ -9,7 +9,7 @@ namespace LibraryServices
 {
     public class LibraryAssetService : ILibraryAsset
     {
-        private LibraryContext _context;
+        private LibraryDbContext _context;
         public bool isBook(int id)
         {
             return _context.LibraryAssets.OfType<Book>()
@@ -22,7 +22,7 @@ namespace LibraryServices
                 .Any(video => video.Id == id);
         }
 
-        public LibraryAssetService(LibraryContext context)
+        public LibraryAssetService(LibraryDbContext context)
         {
             _context = context;
         }

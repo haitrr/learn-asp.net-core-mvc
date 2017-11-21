@@ -10,7 +10,7 @@ using System;
 
 namespace LibraryData.Migrations
 {
-    [DbContext(typeof(LibraryContext))]
+    [DbContext(typeof(LibraryDbContext))]
     [Migration("20171112004944_Initial Migration")]
     partial class InitialMigration
     {

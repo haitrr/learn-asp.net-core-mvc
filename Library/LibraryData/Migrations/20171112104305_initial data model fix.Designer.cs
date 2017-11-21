@@ -11,7 +11,7 @@ using System;
 
 namespace LibraryData.Migrations
 {
-    [DbContext(typeof(LibraryContext))]
+    [DbContext(typeof(LibraryDbContext))]
     [Migration("20171112104305_initial data model fix")]
     partial class initialdatamodelfix
     {
